@@ -1,6 +1,6 @@
 import React from "react";
 
-interface Props extends IMain {};
+interface Props {};
 
 function Main({}: Props) {
   return (
